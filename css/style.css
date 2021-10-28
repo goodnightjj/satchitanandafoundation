@@ -44,8 +44,8 @@ em {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; font-styl
 #home-pillars h3 {font-size: 3.5rem; margin-top: 40px; color: white; padding-left: 75px; padding-right: 75px;}
 #home-pillars p {margin-top: 40px; color: white; padding-left: 75px; padding-right: 75px; padding-bottom: 150px; height: 150px;}
 #home-pillars a {font-size: 1.125rem; border: 1px white solid; padding: 20px 50px; border-radius: 50px; color: white;}
-.pillar-1 {background-color: #c88b56;}
-.pillar-2 {background-color: #386ea9;}
+.pillar-1 {background-color: #386ea9;}
+.pillar-2 {background-color: #c88b56;}
 .pillar-3 {background-color: #4c6e62;}
 #home-pillars .col-4 {padding-bottom: 170px;}
 
