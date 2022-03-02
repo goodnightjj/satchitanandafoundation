@@ -142,6 +142,7 @@ p.news-title, .news-source {padding: 0 50px; margin: 0;}
 }
 
 @media screen and (max-width: 900px) {
+	#home-intro img {margin-top: 50px;}
 	.rwd-desk {display: none;}
 	.rwd-mobi {display: block;}
 	#pillars-mission-text p {padding-left: 50px; padding-right: 50px;}
