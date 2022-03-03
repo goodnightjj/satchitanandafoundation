@@ -148,6 +148,7 @@ p.news-title, .news-source {padding: 0 50px; margin: 0;}
 	.rwd-mobi {display: block;}
 	#pillars-mission-text p {padding-left: 50px; padding-right: 50px;}
 	#imlogo img {width: 144px;}
+	.overlay a {font-size: 20px}
 }
 
 @media screen and (max-width: 720px) {
