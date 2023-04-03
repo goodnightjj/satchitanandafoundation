@@ -38,7 +38,6 @@ em {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; font-styl
 
 #home-pillars-intro h2 {font-size: 4.5rem; margin-top: 200px; margin-bottom: -15px;}
 #home-pillars-intro p {font-size: 1.25rem; margin-top: 60px; margin-bottom: 120px;}
-#about-mission h2, #pillars-mission-text h2 {font-size: 4.5rem; margin-top: 100px;}
 
 #home-pillars {margin-right: 0; margin-right: 0;}
 #home-pillars img {margin-top: 180px; max-width: 150px;}
@@ -52,6 +51,7 @@ em {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; font-styl
 
 #home-news, #home-blog {background-color: white;}
 #home-news h2, #home-blog h2 {font-size: 4.5rem; margin-top: 250px;}
+#about-mission h2, #pillars-mission-text h2 {font-size: 4.5rem; margin-top: 100px;}
 #home-news .news-source, #home-blog .blog-source {font-size: 1.25rem; margin-top: 60px;}
 #home-news .news-title, #home-blog .blog-title {font-size: 3rem;}
 p.news-title, .news-source {padding: 0 50px; margin: 0;}
