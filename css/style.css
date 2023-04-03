@@ -36,7 +36,7 @@ em {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; font-styl
 #home-intro a {font-size: 1.125rem; border: 1px black solid; padding: 20px 50px; border-radius: 50px;}
 #home-intro img {margin-top: -50px; max-width: 900px;}
 
-#home-pillars-intro h2 {font-size: 4.5rem; margin-top: 150px; margin-bottom: 120px;}
+#home-pillars-intro h2 {font-size: 4.5rem; margin-top: 200px; margin-bottom: -15px;}
 #home-pillars-intro p {font-size: 1.25rem; margin-top: 60px; margin-bottom: 120px;}
 
 #home-pillars {margin-right: 0; margin-right: 0;}
