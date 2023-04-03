@@ -26,17 +26,16 @@ strong {font-weight: bold; color: white; font-size: 1.25rem;}
 em {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; font-style: italic; color: white; font-size: 1.25rem;}
 /* em {font-family: 'SuperBoldItalic', Georgia, serif; font-weight: 700; font-style: italic; color: white; font-size: 1.25rem;} */
 
-#nav {padding-top: 50px; background-color: #e4e4e4;}
+#nav {padding-top: 50px;}
 #nav span {font-family: Helvetica, sans-serif; font-size: 1rem; opacity: 0.7; position: relative; top: 20px;}
 #nav span:hover {opacity: 1;}
 #imlogo img {width: 216px;}
 
-#home-intro {padding-top: 50px; height: 400px; background-color: #e4e4e4; min-height: 800px;}
-#home-intro h1 {font-size: 3rem; line-height: 1.2;	margin-bottom: 100px; margin-top: 240px;}
+#home-intro {padding-top: 50px; height: 400px; min-height: 800px;}
+#home-intro h1 {font-size: 3.5rem; line-height: 1.2; margin-bottom: 100px; margin-top: 160px;}
 #home-intro a {font-size: 1.125rem; border: 1px black solid; padding: 20px 50px; border-radius: 50px;}
 #home-intro img {margin-top: -50px; max-width: 900px;}
 
-#home-pillars-intro {background-color: #e4e4e4;}
 #home-pillars-intro h2 {font-size: 4.5rem; margin-top: 150px; margin-bottom: 120px;}
 #home-pillars-intro p {font-size: 1.25rem; margin-top: 60px; margin-bottom: 120px;}
 
@@ -64,7 +63,7 @@ p.news-title, .news-source {padding: 0 50px; margin: 0;}
 .footer {background-color: #e4e2e2; margin-top: 300px; padding-bottom: 150xp; height: 350px;}
 .footer img {padding-top: 150px;}
 
-#about-intro {padding-top: 50px; height: 400px; background-color: #e4e4e4; min-height: 800px;}
+#about-intro {padding-top: 50px; height: 400px; min-height: 800px;}
 #about-intro h1 {font-size: 4.5rem; margin-top: 300px;}
 .about-outcomes {margin-top: 200px;}
 .about-outcomes h2 {font-size: 4.5rem;}
