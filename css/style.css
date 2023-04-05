@@ -154,8 +154,8 @@ p.news-title, .news-source {padding: 0 50px; margin: 0;}
 
 @media screen and (max-width: 720px) {
 	.overlay .closebtn {right: 50px;}
-	#nav span {top: -50px; margin-right: 50px;}
-	#hamburger {margin-right: 0;}
+	#nav span {top: -40px; margin-right: 50px;}
+	span#hamburger {margin-right: 0;}
 	.news-source {padding-top: 50px;}
 	#home-intro h1 {margin-top: 50px;}
 	#nav a, #home-intro h1 {padding: 0 50px;}
