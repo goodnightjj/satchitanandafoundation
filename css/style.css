@@ -62,7 +62,7 @@ p.news-title, .news-source {padding: 0 50px; margin: 0;}
 .news-border-container {padding-top: 100px; padding-bottom: 50px;}
 
 .footer {margin-top: 300px; padding-bottom: 150xp; height: 350px;}
-.footer img {padding-top: 150px;}
+.footer img {padding-top: 150px; width: 52px;}
 
 #about-intro {padding-top: 100px;}
 #about-intro h1 {font-size: 2.5rem; margin-top: 50px;}
@@ -150,6 +150,7 @@ p.news-title, .news-source {padding: 0 50px; margin: 0;}
 	.rwd-mobi {display: block;}
 	#pillars-mission-text p {padding-left: 50px; padding-right: 50px;}
 	#imlogo img {width: 144px;}
+	.footer img {width: 34px;}
 	.overlay a {font-size: 20px;}
 }
 
