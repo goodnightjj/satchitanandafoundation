@@ -55,7 +55,8 @@ em {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; font-styl
 #home-news .news-source, #home-blog .blog-source {font-size: 1.25rem; margin-top: 60px;}
 #home-news .news-title, #home-blog .blog-title {font-size: 3rem;}
 p.news-title, .news-source {padding: 0 50px; margin: 0;}
-.news-title a {font-size: 2.5rem; line-height: 1.2;}
+p.news-title {font-size: 2.5rem; line-height: 1.1;}
+.news-title a {font-size: 2.5rem; line-height: 1.1;}
 #home-news .news-source, #home-blog .blog-source {color: gray; margin-top: 15px; font-size: 1rem;}
 .news-border, .blog-border {border-bottom: 1px black solid; margin-top: 40px; margin-bottom: -20px;}
 #home-news, #home-blog {margin-top: 100px;}
