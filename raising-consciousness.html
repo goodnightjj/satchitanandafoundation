@@ -11,7 +11,6 @@
 	<meta name="description" content="Our shared human mission is to contribute to the end of global poverty and hunger, to promote the spread of freedom across the globe, and to awaken to our nature as beings of spirit, transmuting the mental health pandemic into an opportunity for enlightenment for all beings">
 
 	<!-- 🔎 -->
-	<!-- Search Engine Tags -->
 	<meta itemprop="name" content="Satchitananda Foundation">
 	<meta itemprop="description" content="Our shared human mission is to contribute to the end of global poverty and hunger, to promote the spread of freedom across the globe, and to awaken to our nature as beings of spirit, transmuting the mental health pandemic into an opportunity for enlightenment for all beings">
 	<meta itemprop="image" content="https://www.satchitananda.foundation/img/thumbnail-og.png">
@@ -24,24 +23,20 @@
 	<meta name="twitter:image" content="https://www.satchitananda.foundation/img/thumbnail-tw.png">
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script></script>
-
-	<!-- Favicons -->
 	<link rel="shortcut icon" type="image/x-icon" href="img/fav.png">
-
-	<!-- Style Imports -->
 	<link href="css/grid.css" rel="stylesheet">
 	<link href="css/style.css" rel="stylesheet">
 	<style>
 		#about-mission a {display: block; font-size: 1.125rem; margin: 100px auto 0; padding: 20px 50px; max-width: 200px; border: 1px black solid; border-radius: 50px;}
 		.team .offset-right {margin-top: 75px; padding-left: 75px;}
 		.speaker {margin-top: 100px;}
+		@media screen and (max-width: 720px){
+			.team .offset-right {margin-top: 0; margin-bottom: 50px; padding-left: 0;}
+			#about-mission a {margin-top: 75px;}
+		}
 	</style>
 </head>
 <body>
-
 	<!-- NAV -->
 	<div id="myNav" class="overlay">
 		<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
@@ -54,7 +49,6 @@
 			<a href="https://blog.satchitananda.foundation" target="_blank">Blog</a>
 		</div>
 	</div>
-
 	<!-- CONTENT -->
 	<div class="container">
 		<div class="row" id="nav">
@@ -146,7 +140,6 @@
 function openNav() {
 	document.getElementById("myNav").style.display = "block";
 }
-
 /* Close */
 function closeNav() {
 	document.getElementById("myNav").style.display = "none";
