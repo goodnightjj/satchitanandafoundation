@@ -74,7 +74,7 @@ p.news-title {font-size: 2.5rem; line-height: 1.1;}
 
 .team h2 {font-size: 4.5rem; padding-bottom: 100px;}
 .team h3 {font-size: 2.5rem; padding-bottom: 0; margin-bottom: 20px;}
-.team .offset-left {position: relative; right: 75px;}
+.team .offset-left {position: relative; right: 50px;}
 #about-intro-text p, .team p {font-size: 1.125rem;}
 .team p+p {margin-top: 20px;}
 
