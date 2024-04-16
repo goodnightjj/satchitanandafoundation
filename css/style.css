@@ -80,47 +80,11 @@ p.news-title {font-size: 2.5rem; line-height: 1.1;}
 
 /* NAV */
 
-.overlay {
-	height: 100%;
-	width: 100%;
-	display: none;
-	position: fixed;
-	z-index: 1;
-	top: 0;
-	left: 0;
-	background: #c88b56;
-	opacity: 0.96;
-}
-
-.overlay-content {
-	position: relative;
-	top: 20%;
-	width: 100%;
-	text-align: center;
-	margin-top: 30px;
-}
-
-.overlay a {
-	padding: 10px;
-	text-decoration: none;
-	font-size: 3rem;
-	color: white;
-	display: block;
-	transition: 0.3s;
-	font-family: 'SuperLight', Georgia, serif;
-	font-weight: 100;
-}
-
-.overlay a:hover, .overlay a:focus {
-	color: #f1f1f1;
-}
-
-.overlay .closebtn {
-	position: absolute;
-	top: 25px;
-	right: 160px;
-	font-size: 4rem;
-}
+.overlay {height: 100%; width: 100%; display: none; position: fixed; z-index: 1; top: 0; left: 0; background: #c88b56; opacity: 0.96;}
+.overlay-content {position: relative; top: 15%; width: 100%; text-align: center;}
+.overlay a {padding: 10px; text-decoration: none; font-size: 3rem; color: white; display: block; transition: 0.3s; font-family: 'SuperLight', Georgia, serif; font-weight: 100;}
+.overlay a:hover, .overlay a:focus {color: #f1f1f1;}
+.overlay .closebtn {position: absolute; top: 25px; right: 160px; font-size: 4rem;}
 
 #values-icons img {max-width: 120px;}
 #values-icons p {padding-bottom: 0px;}
