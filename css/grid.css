@@ -5,23 +5,29 @@
 
 @font-face {
 	font-family: 'SuperLight';
-	src: url('../fonts/GT-Super-Display-Light.woff2') format('woff2'),
-	url('../fonts/GT-Super-Display-Light.woff') format('woff'),
-	url('../fonts/GT-Super-Display-Light.ttf') format('truetype');
+	src: url('../fonts/GT-Super-Display-Light.eot'),
+		 url('../fonts/GT-Super-Display-Light.eot'), format('embedded-opentype'),
+		 url('../fonts/GT-Super-Display-Light.woff2') format('woff2'),
+		 url('../fonts/GT-Super-Display-Light.woff') format('woff'),
+		 url('../fonts/GT-Super-Display-Light.ttf') format('truetype');
 }
 
 @font-face {
 	font-family: 'SuperBoldItalic';
-	src: url('../fonts/GT-Super-Display-Bold-Italic.woff2') format('woff2'),
-	url('../fonts/GT-Super-Display-Bold-Italic.woff') format('woff'),
-	url('../fonts/GT-Super-Display-Bold-Italic.ttf') format('truetype');
+	src: url('../fonts/GT-Super-Display-Bold-Italic.eot'),
+		 url('../fonts/GT-Super-Display-Bold-Italic.eot'), format('embedded-opentype'),
+		 url('../fonts/GT-Super-Display-Bold-Italic.woff2') format('woff2'),
+		 url('../fonts/GT-Super-Display-Bold-Italic.woff') format('woff'),
+		 url('../fonts/GT-Super-Display-Bold-Italic.ttf') format('truetype');
 }
 
 @font-face {
 	font-family: 'SuperLightItalic';
-	src: url('../fonts/GT-Super-Display-Light-Italic.woff2') format('woff2'),
-	url('../fonts/GT-Super-Display-Light-Italic.woff') format('woff'),
-	url('../fonts/GT-Super-Display-Light-Italic.ttf') format('truetype');
+	src: url('../fonts/GT-Super-Display-Light-Italic.eot'),
+		 url('../fonts/GT-Super-Display-Light-Italic.eot'), format('embedded-opentype'),
+		 url('../fonts/GT-Super-Display-Light-Italic.woff2') format('woff2'),
+		 url('../fonts/GT-Super-Display-Light-Italic.woff') format('woff'),
+		 url('../fonts/GT-Super-Display-Light-Italic.ttf') format('truetype');
 }
 
 /* UNIVERSAL */
