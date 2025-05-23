@@ -92,7 +92,7 @@ p.news-title {font-size: 2.5rem; line-height: 1.1;}
 .partners-logos img {margin: 0 50px; display: inline-block; max-width: 200px;}
 .video-section {text-align: center;}
 .video-section video {max-width: 800px; width: 100%; height: auto; border-radius: 8px;}
-.video-section video:hover {opacity: 0.8;}
+.video-section video:hover {opacity: 0.8; cursor: pointer;}
 
 .rwd-desk {display: block;}
 .rwd-mobi {display: none;}
